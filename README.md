@@ -1,4 +1,4 @@
-﻿# green dashboard - Bootsrap 5
+﻿# Green Dashboard - Bootsrap 5
 👉 Subscribe To My Page 💙❤️[FB](https://www.facebook.com/saljok.ali.332/)❤️💙<br /><br />
 ✅  List of Components used in this Tutorial <br /><br />
 🚀 Component Name	Docs<br />
