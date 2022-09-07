@@ -2,14 +2,14 @@
 👉 Subscribe To My Page 💙❤️[FB](https://www.facebook.com/saljok.ali.332/)❤️💙<br /><br />
 ✅  List of Components used in this Tutorial <br /><br />
 🚀 Component Name	Docs<br />
-🚀 Navbar	Navbar Docs<br />
-🚀 Collapse	Collapse Docs<br />
-🚀 Offcanvas	Offcanvas Docs<br />
-🚀 Card	Card Docs<br />
-🚀 Input Group	Input Group Docs<br />
-🚀 Bootstrap Icons	Bootstrap Icons Docs<br />
-🚀 Chart.js	Chart.js Docs<br />
-🚀 DataTables	DataTables Docs<br />
+🚀 Navbar Docs<br />
+🚀 Collapse Docs<br />
+🚀 Offcanvas Docs<br />
+🚀 Card Docs<br />
+🚀 Input Group Docs<br />
+🚀 Bootstrap Icons Docs<br />
+🚀 Chart.js Docs<br />
+🚀 DataTables Docs<br />
 <br /><br />
 <h2> :shipit: Skills </h2><br />
 - JQuery<br />
